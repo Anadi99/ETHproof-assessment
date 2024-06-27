@@ -59,7 +59,7 @@ You can check the total supply by calling the totalSupply variable.
 
 ## Authors
 
-Ayush Mishra
+Anadi Mishra
 Student at Chandigarh University
 
 
